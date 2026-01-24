@@ -37,7 +37,7 @@ export function DashboardPage({ onQuickCheckIn }: DashboardPageProps) {
         <div className="flex justify-between items-start mb-6">
           <div>
             <p className="text-sm text-gray-500 font-medium mb-1">
-              Welcome back, Dimas Harrioson
+              Welcome back, Dimas Harrison
             </p>
             <h1 className="text-2xl font-bold text-gray-900">
               Embun Morning Farm
